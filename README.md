@@ -1,5 +1,5 @@
 # Hi there, I'm Noro Danielyan 👋
-## Full Stack Developer at WEDO Creative
+## Full Stack Developer
 
 Welcome to my GitHub profile! I'm passionate about building web applications with clean code and delightful user experiences.
 
